@@ -1,0 +1,143 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ACER\\source\\repos\\TuVung\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C9907BE4-E70A-4BA4-9281-E84A6109C7C7}|TuVung\\TuVung.csproj|c:\\users\\acer\\source\\repos\\tuvung\\tuvung\\dockerfile||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{C9907BE4-E70A-4BA4-9281-E84A6109C7C7}|TuVung\\TuVung.csproj|solutionrelative:tuvung\\dockerfile||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C9907BE4-E70A-4BA4-9281-E84A6109C7C7}|TuVung\\TuVung.csproj|c:\\users\\acer\\source\\repos\\tuvung\\tuvung\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C9907BE4-E70A-4BA4-9281-E84A6109C7C7}|TuVung\\TuVung.csproj|solutionrelative:tuvung\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C9907BE4-E70A-4BA4-9281-E84A6109C7C7}|TuVung\\TuVung.csproj|c:\\users\\acer\\source\\repos\\tuvung\\tuvung\\controllers\\listeningcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C9907BE4-E70A-4BA4-9281-E84A6109C7C7}|TuVung\\TuVung.csproj|solutionrelative:tuvung\\controllers\\listeningcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C9907BE4-E70A-4BA4-9281-E84A6109C7C7}|TuVung\\TuVung.csproj|c:\\users\\acer\\source\\repos\\tuvung\\tuvung\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{C9907BE4-E70A-4BA4-9281-E84A6109C7C7}|TuVung\\TuVung.csproj|solutionrelative:tuvung\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C9907BE4-E70A-4BA4-9281-E84A6109C7C7}|TuVung\\TuVung.csproj|c:\\users\\acer\\source\\repos\\tuvung\\tuvung\\dtos\\lessondto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C9907BE4-E70A-4BA4-9281-E84A6109C7C7}|TuVung\\TuVung.csproj|solutionrelative:tuvung\\dtos\\lessondto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C9907BE4-E70A-4BA4-9281-E84A6109C7C7}|TuVung\\TuVung.csproj|c:\\users\\acer\\source\\repos\\tuvung\\tuvung\\dtos\\sentencedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C9907BE4-E70A-4BA4-9281-E84A6109C7C7}|TuVung\\TuVung.csproj|solutionrelative:tuvung\\dtos\\sentencedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Dockerfile",
+              "DocumentMoniker": "C:\\Users\\ACER\\source\\repos\\TuVung\\TuVung\\Dockerfile",
+              "RelativeDocumentMoniker": "TuVung\\Dockerfile",
+              "ToolTip": "C:\\Users\\ACER\\source\\repos\\TuVung\\TuVung\\Dockerfile",
+              "RelativeToolTip": "TuVung\\Dockerfile",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-10-20T06:30:42.464Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\ACER\\source\\repos\\TuVung\\TuVung\\appsettings.json",
+              "RelativeDocumentMoniker": "TuVung\\appsettings.json",
+              "ToolTip": "C:\\Users\\ACER\\source\\repos\\TuVung\\TuVung\\appsettings.json",
+              "RelativeToolTip": "TuVung\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-10-20T06:19:32.214Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\ACER\\source\\repos\\TuVung\\TuVung\\Program.cs",
+              "RelativeDocumentMoniker": "TuVung\\Program.cs",
+              "ToolTip": "C:\\Users\\ACER\\source\\repos\\TuVung\\TuVung\\Program.cs",
+              "RelativeToolTip": "TuVung\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-12T03:05:09.901Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ListeningController.cs",
+              "DocumentMoniker": "C:\\Users\\ACER\\source\\repos\\TuVung\\TuVung\\Controllers\\ListeningController.cs",
+              "RelativeDocumentMoniker": "TuVung\\Controllers\\ListeningController.cs",
+              "ToolTip": "C:\\Users\\ACER\\source\\repos\\TuVung\\TuVung\\Controllers\\ListeningController.cs",
+              "RelativeToolTip": "TuVung\\Controllers\\ListeningController.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAQwCcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-12T03:03:11.015Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "LessonDto.cs",
+              "DocumentMoniker": "C:\\Users\\ACER\\source\\repos\\TuVung\\TuVung\\DTOs\\LessonDto.cs",
+              "RelativeDocumentMoniker": "TuVung\\DTOs\\LessonDto.cs",
+              "ToolTip": "C:\\Users\\ACER\\source\\repos\\TuVung\\TuVung\\DTOs\\LessonDto.cs",
+              "RelativeToolTip": "TuVung\\DTOs\\LessonDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-12T03:02:55.045Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "SentenceDto.cs",
+              "DocumentMoniker": "C:\\Users\\ACER\\source\\repos\\TuVung\\TuVung\\DTOs\\SentenceDto.cs",
+              "RelativeDocumentMoniker": "TuVung\\DTOs\\SentenceDto.cs",
+              "ToolTip": "C:\\Users\\ACER\\source\\repos\\TuVung\\TuVung\\DTOs\\SentenceDto.cs",
+              "RelativeToolTip": "TuVung\\DTOs\\SentenceDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-12T02:59:35.047Z"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 710,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:2:0:{e8034f19-ab72-4f06-83fd-f6832b41aa63}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

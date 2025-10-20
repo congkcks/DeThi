@@ -1,0 +1,28 @@
+[
+  {
+    "ContainingType": "TuVung.Controllers.ListeningController",
+    "Method": "GetLessons",
+    "RelativePath": "api/Listening/lessons",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "TuVung.Controllers.ListeningController",
+    "Method": "GetSentences",
+    "RelativePath": "api/Listening/lessons/{lessonId}/sentences",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "lessonId",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  }
+]
