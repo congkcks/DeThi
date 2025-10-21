@@ -206,6 +206,40 @@
           }
         }
       }
+    },
+    "/api/ToeicTopic": {
+      "get": {
+        "tags": [
+          "ToeicTopic"
+        ],
+        "responses": {
+          "200": {
+            "description": "OK"
+          }
+        }
+      }
+    },
+    "/api/ToeicTopic/{section}": {
+      "get": {
+        "tags": [
+          "ToeicTopic"
+        ],
+        "parameters": [
+          {
+            "name": "section",
+            "in": "path",
+            "required": true,
+            "schema": {
+              "type": "string"
+            }
+          }
+        ],
+        "responses": {
+          "200": {
+            "description": "OK"
+          }
+        }
+      }
     }
   },
   "components": {

@@ -3,12 +3,20 @@
   "WorkspaceRootPath": "C:\\Users\\ACER\\source\\repos\\TuVung\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{C9907BE4-E70A-4BA4-9281-E84A6109C7C7}|TuVung\\TuVung.csproj|c:\\users\\acer\\source\\repos\\tuvung\\tuvung\\controllers\\questionscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C9907BE4-E70A-4BA4-9281-E84A6109C7C7}|TuVung\\TuVung.csproj|solutionrelative:tuvung\\controllers\\questionscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{C9907BE4-E70A-4BA4-9281-E84A6109C7C7}|TuVung\\TuVung.csproj|c:\\users\\acer\\source\\repos\\tuvung\\tuvung\\controllers\\toeictopiccontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C9907BE4-E70A-4BA4-9281-E84A6109C7C7}|TuVung\\TuVung.csproj|solutionrelative:tuvung\\controllers\\toeictopiccontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{C9907BE4-E70A-4BA4-9281-E84A6109C7C7}|TuVung\\TuVung.csproj|c:\\users\\acer\\source\\repos\\tuvung\\tuvung\\controllers\\listeningcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{C9907BE4-E70A-4BA4-9281-E84A6109C7C7}|TuVung\\TuVung.csproj|solutionrelative:tuvung\\controllers\\listeningcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C9907BE4-E70A-4BA4-9281-E84A6109C7C7}|TuVung\\TuVung.csproj|c:\\users\\acer\\source\\repos\\tuvung\\tuvung\\models\\toeicvocab.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C9907BE4-E70A-4BA4-9281-E84A6109C7C7}|TuVung\\TuVung.csproj|solutionrelative:tuvung\\models\\toeicvocab.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C9907BE4-E70A-4BA4-9281-E84A6109C7C7}|TuVung\\TuVung.csproj|c:\\users\\acer\\source\\repos\\tuvung\\tuvung\\controllers\\questionscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C9907BE4-E70A-4BA4-9281-E84A6109C7C7}|TuVung\\TuVung.csproj|solutionrelative:tuvung\\controllers\\questionscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{C9907BE4-E70A-4BA4-9281-E84A6109C7C7}|TuVung\\TuVung.csproj|c:\\users\\acer\\source\\repos\\tuvung\\tuvung\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -54,7 +62,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 4,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Bookmark",
@@ -67,6 +75,32 @@
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ToeicTopicController.cs",
+              "DocumentMoniker": "C:\\Users\\ACER\\source\\repos\\TuVung\\TuVung\\Controllers\\ToeicTopicController.cs",
+              "RelativeDocumentMoniker": "TuVung\\Controllers\\ToeicTopicController.cs",
+              "ToolTip": "C:\\Users\\ACER\\source\\repos\\TuVung\\TuVung\\Controllers\\ToeicTopicController.cs",
+              "RelativeToolTip": "TuVung\\Controllers\\ToeicTopicController.cs",
+              "ViewState": "AgIAAC0AAAAAAAAAAAAYwCwAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-21T11:31:55.138Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ToeicVocab.cs",
+              "DocumentMoniker": "C:\\Users\\ACER\\source\\repos\\TuVung\\TuVung\\Models\\ToeicVocab.cs",
+              "RelativeDocumentMoniker": "TuVung\\Models\\ToeicVocab.cs",
+              "ToolTip": "C:\\Users\\ACER\\source\\repos\\TuVung\\TuVung\\Models\\ToeicVocab.cs",
+              "RelativeToolTip": "TuVung\\Models\\ToeicVocab.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAwwBIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-21T11:27:16.794Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -83,20 +117,20 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 3,
               "Title": "QuestionsController.cs",
               "DocumentMoniker": "C:\\Users\\ACER\\source\\repos\\TuVung\\TuVung\\Controllers\\QuestionsController.cs",
               "RelativeDocumentMoniker": "TuVung\\Controllers\\QuestionsController.cs",
               "ToolTip": "C:\\Users\\ACER\\source\\repos\\TuVung\\TuVung\\Controllers\\QuestionsController.cs",
               "RelativeToolTip": "TuVung\\Controllers\\QuestionsController.cs",
-              "ViewState": "AgIAABkAAAAAAAAAAAAQwBAAAAAzAAAAAAAAAA==",
+              "ViewState": "AgIAABkAAAAAAAAAAAAzwBAAAAAzAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-10-21T05:10:18.588Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 6,
               "Title": "MappingProfile.cs",
               "DocumentMoniker": "C:\\Users\\ACER\\source\\repos\\TuVung\\TuVung\\Helpers\\MappingProfile.cs",
               "RelativeDocumentMoniker": "TuVung\\Helpers\\MappingProfile.cs",
@@ -104,12 +138,11 @@
               "RelativeToolTip": "TuVung\\Helpers\\MappingProfile.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-21T05:07:06.101Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-10-21T05:07:06.101Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 5,
               "Title": "QuestionMappingProfile .cs",
               "DocumentMoniker": "C:\\Users\\ACER\\source\\repos\\TuVung\\TuVung\\Helpers\\QuestionMappingProfile .cs",
               "RelativeDocumentMoniker": "TuVung\\Helpers\\QuestionMappingProfile .cs",
@@ -117,12 +150,11 @@
               "RelativeToolTip": "TuVung\\Helpers\\QuestionMappingProfile .cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAASAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-21T05:06:48.083Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-10-21T05:06:48.083Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 8,
               "Title": "ExerciseWithQuestionsDto.cs",
               "DocumentMoniker": "C:\\Users\\ACER\\source\\repos\\TuVung\\TuVung\\DTOs\\ExerciseWithQuestionsDto.cs",
               "RelativeDocumentMoniker": "TuVung\\DTOs\\ExerciseWithQuestionsDto.cs",
@@ -130,12 +162,11 @@
               "RelativeToolTip": "TuVung\\DTOs\\ExerciseWithQuestionsDto.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAWAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-21T05:05:08.941Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-10-21T05:05:08.941Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 7,
               "Title": "QuestionDto.cs",
               "DocumentMoniker": "C:\\Users\\ACER\\source\\repos\\TuVung\\TuVung\\DTOs\\QuestionDto.cs",
               "RelativeDocumentMoniker": "TuVung\\DTOs\\QuestionDto.cs",
@@ -143,12 +174,11 @@
               "RelativeToolTip": "TuVung\\DTOs\\QuestionDto.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAwAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-21T05:04:52.728Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-10-21T05:04:52.728Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 9,
               "Title": "Exercise.cs",
               "DocumentMoniker": "C:\\Users\\ACER\\source\\repos\\TuVung\\TuVung\\Models\\Exercise.cs",
               "RelativeDocumentMoniker": "TuVung\\Models\\Exercise.cs",
@@ -156,12 +186,11 @@
               "RelativeToolTip": "TuVung\\Models\\Exercise.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-21T04:57:46.579Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-10-21T04:57:46.579Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 10,
               "Title": "Question.cs",
               "DocumentMoniker": "C:\\Users\\ACER\\source\\repos\\TuVung\\TuVung\\Models\\Question.cs",
               "RelativeDocumentMoniker": "TuVung\\Models\\Question.cs",
@@ -169,12 +198,11 @@
               "RelativeToolTip": "TuVung\\Models\\Question.cs",
               "ViewState": "AgIAAAMAAAAAAAAAAAAAAA0AAAAZAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-21T04:57:38.058Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-10-21T04:57:38.058Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 11,
               "Title": "ListeningSentence.cs",
               "DocumentMoniker": "C:\\Users\\ACER\\source\\repos\\TuVung\\TuVung\\Models\\ListeningSentence.cs",
               "RelativeDocumentMoniker": "TuVung\\Models\\ListeningSentence.cs",
@@ -182,12 +210,11 @@
               "RelativeToolTip": "TuVung\\Models\\ListeningSentence.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-21T04:57:35.666Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-10-21T04:57:35.666Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 12,
               "Title": "appsettings.json",
               "DocumentMoniker": "C:\\Users\\ACER\\source\\repos\\TuVung\\TuVung\\appsettings.json",
               "RelativeDocumentMoniker": "TuVung\\appsettings.json",
@@ -199,7 +226,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 4,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\ACER\\source\\repos\\TuVung\\TuVung\\Program.cs",
               "RelativeDocumentMoniker": "TuVung\\Program.cs",
@@ -207,8 +234,7 @@
               "RelativeToolTip": "TuVung\\Program.cs",
               "ViewState": "AgIAAAkAAAAAAAAAAAAAAB8AAAA/AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-12T03:05:09.901Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-10-12T03:05:09.901Z"
             }
           ]
         },
