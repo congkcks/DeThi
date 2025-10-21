@@ -29,7 +29,7 @@ builder.Services.AddDbContext<VocabularyDbContext>(options =>
 
 // 🔹 AutoMapper
 builder.Services.AddAutoMapper(typeof(MappingProfile));
-
+builder.Services.AddAutoMapper(typeof(QuestionMappingProfile));
 var app = builder.Build();
 
 
