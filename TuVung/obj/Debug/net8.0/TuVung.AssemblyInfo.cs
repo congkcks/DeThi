@@ -15,7 +15,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("TuVung")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+438b10dfdd076c27b40c128f18232d5fb9c22c12")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+19372ba0b4bf9a8684972592457998a5bb8ae55f")]
 [assembly: System.Reflection.AssemblyProductAttribute("TuVung")]
 [assembly: System.Reflection.AssemblyTitleAttribute("TuVung")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

@@ -207,32 +207,10 @@
         }
       }
     },
-    "/api/ToeicTopic": {
+    "/api/ToeicVocab/sections": {
       "get": {
         "tags": [
-          "ToeicTopic"
-        ],
-        "responses": {
-          "200": {
-            "description": "OK"
-          }
-        }
-      }
-    },
-    "/api/ToeicTopic/{section}": {
-      "get": {
-        "tags": [
-          "ToeicTopic"
-        ],
-        "parameters": [
-          {
-            "name": "section",
-            "in": "path",
-            "required": true,
-            "schema": {
-              "type": "string"
-            }
-          }
+          "ToeicVocab"
         ],
         "responses": {
           "200": {

@@ -3,71 +3,34 @@ using Microsoft.EntityFrameworkCore;
 using TuVung.Data;
 using TuVung.Models;
 
-namespace TuVung.Api.Controllers
+namespace TuVung.Controllers
 {
     [ApiController]
     [Route("api/[controller]")]
-    public class ToeicTopicController : ControllerBase
+    public class ToeicVocabController : ControllerBase
     {
         private readonly VocabularyDbContext _context;
 
-        public ToeicTopicController(VocabularyDbContext context)
+        public ToeicVocabController(VocabularyDbContext context)
         {
             _context = context;
         }
 
-        
-        [HttpGet]
-        public async Task<IActionResult> GetTopics()
+       
+
+        // 📗 API phụ: Lấy danh sách chủ đề (Section)
+        [HttpGet("sections")]
+        public async Task<IActionResult> GetSections()
         {
-            var topics = await _context.ToeicVocabs
-                .Where(v => v.Section != null && v.Section != "")
-                .GroupBy(v => v.Section)
-                .Select(g => new
-                {
-                    topicName = g.Key,
-                    totalWords = g.Count(),
-                    sampleWords = g.Take(5).Select(v => new
-                    {
-                        v.Word,
-                        v.MeaningVi,
-                        v.Pos
-                    })
-                })
-                .OrderBy(t => t.topicName)
+            var sections = await _context.ToeicVocabs
+                .Where(v => v.Section != null)
+                .Select(v => v.Section!)
+                .Distinct()
+                .OrderBy(s => s)
                 .ToListAsync();
 
-            return Ok(new
-            {
-                totalTopics = topics.Count,
-                items = topics
-            });
+            return Ok(sections);
         }
-        [HttpGet("{section}")]
-        public async Task<IActionResult> GetWordsByTopic(string section)
-        {
-            var words = await _context.ToeicVocabs
-                .Where(v => v.Section == section)
-                .Select(v => new
-                {
-                    v.Id,
-                    v.Word,
-                    v.Phonetic,
-                    v.Pos,
-                    v.MeaningVi,
-                    v.ExampleEn
-                })
-                .ToListAsync();
 
-            if (words.Count == 0)
-                return NotFound(new { message = $"Không tìm thấy từ vựng cho chủ đề '{section}'" });
-
-            return Ok(new
-            {
-                topic = section,
-                total = words.Count,
-                items = words
-            });
-        }
     }
 }

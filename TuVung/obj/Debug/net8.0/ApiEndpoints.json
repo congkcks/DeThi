@@ -124,29 +124,13 @@
     ]
   },
   {
-    "ContainingType": "TuVung.Api.Controllers.ToeicTopicController",
-    "Method": "GetTopics",
-    "RelativePath": "api/ToeicTopic",
+    "ContainingType": "TuVung.Controllers.ToeicVocabController",
+    "Method": "GetSections",
+    "RelativePath": "api/ToeicVocab/sections",
     "HttpMethod": "GET",
     "IsController": true,
     "Order": 0,
     "Parameters": [],
-    "ReturnTypes": []
-  },
-  {
-    "ContainingType": "TuVung.Api.Controllers.ToeicTopicController",
-    "Method": "GetWordsByTopic",
-    "RelativePath": "api/ToeicTopic/{section}",
-    "HttpMethod": "GET",
-    "IsController": true,
-    "Order": 0,
-    "Parameters": [
-      {
-        "Name": "section",
-        "Type": "System.String",
-        "IsRequired": true
-      }
-    ],
     "ReturnTypes": []
   }
 ]

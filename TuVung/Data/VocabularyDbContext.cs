@@ -32,7 +32,7 @@ public partial class VocabularyDbContext : DbContext
     {
         if (!optionsBuilder.IsConfigured)
         {
-            var connectionString = "Host=dpg-d3qsof49c44c73d0q8o0-a.singapore-postgres.render.com;Port=5432;Database=congkc_qp29;Username=congkc_qp29_user;Password=YKQRURNXCiuci0WbwRZSax3rIlcmOkUu;SSL Mode=Require;Trust Server Certificate=true";
+            var connectionString = "Host=aws-1-ap-southeast-1.pooler.supabase.com;Port=5432;Database=postgres;Username=postgres.mbllbdmywhyapiooavvs;Password=Congkcs1234@@;SSL Mode=Require;Trust Server Certificate=true";
             optionsBuilder.UseNpgsql(connectionString);
         }
     }
